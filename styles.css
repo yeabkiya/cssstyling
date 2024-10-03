@@ -9,3 +9,26 @@ a {
 }
 
 /* TODO: Add styles here */
+h1 {
+   color: darkblue;
+   padding: 8px;
+   text-shadow: gray 5px 5px 6px;
+}
+
+p {
+   color: white;
+   width: 350px;
+   font-size: 16px;
+   padding: 10px;
+   background: linear-gradient(to bottom right, darkblue, skyblue);
+   box-shadow: 5px 5px 6px gray;
+   border-radius: 5px;
+}
+
+a {
+
+}
+
+.p5 {
+   
+}
